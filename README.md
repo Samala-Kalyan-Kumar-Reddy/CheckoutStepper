@@ -2,6 +2,9 @@
 
 The `Checkoutstepper` component is a React component designed to facilitate a stepper-based checkout process. It allows users to navigate through multiple steps of a checkout flow, completing each step before proceeding to the next one.
 
+<img width="956" alt="image" src="https://github.com/Samala-Kalyan-Kumar-Reddy/CheckoutStepper/assets/82137130/631001e4-b51d-45e9-bf0e-e5e7f7387b78">
+
+
 ## Features
 
 - Renders a stepper UI for navigating through checkout steps.
